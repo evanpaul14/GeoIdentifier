@@ -1,0 +1,5 @@
+.env
+show_mapillary.py
+/__pycache__/
+/venv/
+/src/__pycache__/
